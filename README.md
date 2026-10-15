@@ -1,5 +1,7 @@
 # Caixa meu
 
+![Apresentação de Caixa meu](assets/banner.png)
+
 **Organização das finanças do pequeno negócio.**
 
 Caixa meu é uma solução Gentill em desenvolvimento, com interface em **português brasileiro** e foco em uso simples.
@@ -9,6 +11,12 @@ Caixa meu é uma solução Gentill em desenvolvimento, com interface em **portug
 - Registre entradas e saídas
 - Diferencie movimentações pessoais e do negócio
 - Consulte o resumo financeiro
+
+## Identidade visual
+
+![Ícone de Caixa meu](assets/icon.png)
+
+[Ver peça comercial](assets/post.png)
 
 ## Desenvolvimento
 
